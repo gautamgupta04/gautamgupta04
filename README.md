@@ -7,7 +7,7 @@
 
 ## 📂 Featured Projects
 - 🛒 [E-Commerce Sales Analysis](https://github.com/gautamgupta04/ecommerce-sales-analysis)  
-- 🏬 [Retail Analytics – Customer Segmentation](https://github.com/gautamgupta04/retail-analytics-customer-segmentation)  
+- 🏬 [Retail Analytics – Customer Segmentation](https://github.com/gautamgupta04/retail-analytics-sql-case-study)  
 - 📈 [India CPI Inflation Analysis](https://github.com/gautamgupta04/india-cpi-inflation-analysis)
 
 ## 🔧 Tech Stack
