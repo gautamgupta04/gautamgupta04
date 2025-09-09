@@ -11,7 +11,7 @@
 - 📈 [India CPI Inflation Analysis](https://github.com/gautamgupta04/india-cpi-inflation-analysis)
 
 ## 🔧 Tech Stack
-- **Languages & Queries**: SQL, Python (Pandas, NumPy)  
+- **Languages & Queries**: SQL  
 - **Visualization**: Power BI, Excel (Pivot Tables, Charts)  
 - **Databases**: Oracle, MySQL  
 - **Other**: Data Cleaning, Data Transformation, KPI Reporting  
